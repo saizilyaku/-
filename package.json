@@ -1,0 +1,21 @@
+{
+  "name": "we-are-glosser-2",
+  "version": "0.1.8",
+  "description": "MiniPotato Bot by EOi",
+  "main": "main.mjs",
+  "scripts": {
+    "start": "node main.mjs"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "sequelize": "^6.37.3",
+    "express": "^4.19.2",
+    "rss-parser": "^3.13.0"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/we-are-glosser-2"
+  }
+}
